@@ -1,9 +1,8 @@
 public class Prova1{
 	int x,y;
 			public static void main (String args[]){
-		// prova
-		System.out.print("Hello!!");
-		System.out.println("Hello1111");
-		System.out.println("Word1111");
+			// prova
+		System.out.println("111111");
+		System.out.println("2222222");
 	}
 }
